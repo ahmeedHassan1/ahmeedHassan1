@@ -1,82 +1,73 @@
-<h2 align="left">Hi 👋! My name is Ahmed and I'm a Backend developer, from Egypt.</h2>
+# 👋 Hey there, I'm Ahmed Hassan  
 
-###
+🚀 **Backend Developer | CS Student @ Helwan University**  
+💡 Focused on building scalable backend systems with **Node.js, Express & MongoDB**  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmeedHassan1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeedHassan1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ahmeedhassan1.me-blue?style=flat-square)](https://ahmeedhassan1.me)  
+[![GitHub](https://img.shields.io/badge/💻%20GitHub-ahmeedHassan1-black?style=flat-square&logo=github)](https://github.com/ahmeedHassan1)  
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-ahmeedhassan1-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmeedhassan1)  
+[![Email](https://img.shields.io/badge/📧%20Email-ahmedff35%40gmail.com-red?style=flat-square&logo=gmail)](mailto:ahmedff35@gmail.com)  
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmeedHassan1.ahmeedHassan1"  />
-</div>
+## 🚀 About Me
+- 🔭 Currently working as an **Software Development Intern @ ICT Misr** (Next.js, Node.js, Sequelize)  
+- 💡 Building **secure authentication systems**, **REST APIs**, and **scalable backend apps**  
+- 🌱 Expanding skills in **software architecture & design patterns**  
+- 👨‍💻 Open to **collaborations, freelance projects, and backend opportunities**  
 
-###
+---
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/8f/34/4c/8f344c0b417b86b687ba30ea13f7a341.gif"  />
+## 🛠️ Tech Stack
+**Languages:**  
+`HTML` · `CSS` · `JavaScript` · `C/C++` · `Java`  
 
-###
+**Backend:**  
+`Node.js` · `Express.js` · `Socket.io` · `REST APIs` · `Authentication (JWT, Bcrypt)`  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
+**Frontend:**  
+`React` · `Next.js` · `Redux` · `Tailwind` · `React-Bootstrap`  
 
-###
+**Databases:**  
+`MongoDB` · `Mongoose` · `MySQL` · `Sequelize.js`  
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ahmeedhassan1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:ahmedff35@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com/users/792753232593551401" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+**Tools & Platforms:**  
+`Docker` · `Postman` · `Git` · `n8n`  
 
-###
+---
 
-<br clear="both">
+## 🔥 Projects
+### 🛒 [MERN E-Commerce Platform](https://github.com/ahmeedHassan1/mern-ecommerce)  
+- JWT refresh tokens, **admin dashboards**, **real-time search**  
+- Scalable REST APIs with Swagger docs, validation, rate limiting  
+- Optimized **MongoDB performance** with indexing & monitoring  
+- Automated testing for **security & refresh token flow**  
 
-<img src="https://raw.githubusercontent.com/ahmeedHassan1/ahmeedHassan1/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmeedHassan1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmeedHassan1&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeedHassan1&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+## 🏆 Certifications
+- 📜 [React – The Complete Guide (Next.js, Redux)](https://www.udemy.com/certificate/UC-7ce03572-6d5f-48dc-b3b5-6932966863ff/) – Udemy (Sep 2024)  
+- 📜 [Node.js – The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/certificate/UC-e6d48ff8-6279-41c0-b067-ed11af4fafa7/) – Udemy (Oct 2024)  
+
+---
+
+## 🌍 Languages
+- 🇪🇬 **Arabic** (Native)  
+- 🇬🇧 **English** (Very Good)  
+
+---
+
+💡 *“Code, Learn, Build, Repeat.”*  
+✨ Always open to learning and contributing to open-source!
