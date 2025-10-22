@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working as an **Software Development Intern @ ICT Misr** (Next.js, Node.js, Sequelize)  
+- 🔭 Currently working as a **Software Developer @ ICT Misr** (Next.js, Node.js, Sequelize)  
 - 💡 Building **secure authentication systems**, **REST APIs**, and **scalable backend apps**  
 - 🌱 Expanding skills in **software architecture & design patterns**  
 - 👨‍💻 Open to **collaborations, freelance projects, and backend opportunities**  
